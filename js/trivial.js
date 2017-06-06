@@ -1,11 +1,11 @@
-function changeColor(x)
+function changeColorRoig(x)
 {
-    if(x.style.background=="rgb(250, 0, 0)")
+    if(x.style.background=="rgb(229, 38, 53)")
     {
         x.style.opacity="0";
         x.style.background="#fff";
     }else{
-        x.style.background="rgb(250, 0, 0)";
+        x.style.background="rgb(229, 38, 53)";
         x.style.opacity="1";
     }
     return false;
@@ -13,12 +13,12 @@ function changeColor(x)
 
 function changeColorRosa(x)
 {
-    if(x.style.background=="rgb(255, 0, 137)")
+    if(x.style.background=="rgb(247, 86, 163)")
     {
         x.style.opacity="0";
         x.style.background="#fff";
     }else{
-        x.style.background="rgb(255, 0, 137)";
+        x.style.background="rgb(247, 86, 163)";
         x.style.opacity="1";
     }
     return false;
@@ -26,12 +26,12 @@ function changeColorRosa(x)
 
 function changeColorVerd(x)
 {
-    if(x.style.background=="rgb(0, 255, 0)")
+    if(x.style.background=="rgb(65, 189, 38)")
     {
         x.style.opacity="0";
         x.style.background="#fff";
     }else{
-        x.style.background="rgb(0, 255, 0)";
+        x.style.background="rgb(65, 189, 38)";
         x.style.opacity="1";
     }
     return false;
@@ -39,12 +39,12 @@ function changeColorVerd(x)
 
 function changeColorBlau(x)
 {
-    if(x.style.background=="rgb(0, 0, 255)")
+    if(x.style.background=="rgb(38, 175, 181)")
     {
         x.style.opacity="0";
         x.style.background="#fff";
     }else{
-        x.style.background="rgb(0, 0, 255)";
+        x.style.background="rgb(38, 175, 181)";
         x.style.opacity="1";
     }
     return false;
@@ -52,12 +52,12 @@ function changeColorBlau(x)
 
 function changeColorGroc(x)
 {
-    if(x.style.background=="rgb(255, 255, 0)")
+    if(x.style.background=="rgb(255, 225, 58)")
     {
         x.style.opacity="0";
         x.style.background="#fff";
     }else{
-        x.style.background="rgb(255, 255, 0)";
+        x.style.background="rgb(255, 225, 58)";
         x.style.opacity="1";
     }
     return false;
