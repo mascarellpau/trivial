@@ -1,1 +1,1 @@
-hgfddjhgdjg
+Destapa la foto con las preguntas del trivial.
