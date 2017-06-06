@@ -1,1 +1,1 @@
-Destapa la foto con las preguntas del trivial.
+Destapa la foto con las preguntas del trivial
